@@ -38,16 +38,6 @@
 
 ---
 
-### 📊 Coding & GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=98c379" width="48%" alt="Aarav's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=61afef&ring=61afef&fire=e5c07b" width="48%" alt="Aarav's Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf" width="48%" alt="Top Languages" />
 
 </div>
 

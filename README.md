@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Undergrad+%40+IIIT+Allahabad;DSA+%26+Competitive+Programming;Full-Stack+Web+Developer;Building+scalable+systems" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarav009)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/Ashah_15.0])
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FFKs8BuqzB/)
 
 ---
 

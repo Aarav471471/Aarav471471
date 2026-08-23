@@ -41,8 +41,3 @@
 
 </div>
 
-<div align="center">
-
-✨ *"Make it work, make it right, make it fast."* ✨
-
-</div>
